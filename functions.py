@@ -79,7 +79,6 @@ def construct_eigenvalues_eigenstates_floquet_list(N_rep,last_A,num_A,H_sys,driv
 
     sp_floquet = tensor(Qobj(np.diag(np.ones(N_replica_space-1),1)))
     sm_floquet = tensor(Qobj(np.diag(np.ones(N_replica_space-1),-1)))
-    sx_floquet = sp_floquet + sm_floquet
     
     start = -(N_replica_space-1)/2*w_d
     stop = (N_replica_space-1)/2*w_d
