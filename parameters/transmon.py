@@ -30,7 +30,7 @@ wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 N_rep = 10
 N_fock = 30
 
-num_A = 40
+num_A = 80
 
 g = 0.130/34
 kappa = 0.002/34
