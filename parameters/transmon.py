@@ -4,11 +4,16 @@ import numpy as np
 
 dim = 12
 
+EC = 0.264/34
+flux = 0.127
+
+Ejeff = np.abs(np.cos(np.pi*flux))
+
 fluxonium = scqubits.TunableTransmon(
                EJmax=1,
-               EC=0.264/34,
+               EC=EC,
                d=0,
-               flux=0.127,
+               flux=flux,
                ng=0.0,
                truncated_dim=10,
                ncut=dim
@@ -24,6 +29,8 @@ wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
 N_rep = 10
 N_fock = 30
+
+num_A = 40
 
 g = 0.130/34
 kappa = 0.002/34

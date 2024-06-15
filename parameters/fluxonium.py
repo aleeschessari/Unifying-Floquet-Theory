@@ -18,7 +18,7 @@ drive_op = Qobj(fluxonium.n_operator(energy_esys=True)[0:n_states,0:n_states])
 
 wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
-N_rep = 4
+N_rep = 10
 N_fock = 30
 
 num_A = 40

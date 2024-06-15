@@ -20,6 +20,10 @@ ty = -1j*(tm.dag()-tm)
 tx = tm+tm.dag()
 
 H_sys = epsilon/2 * tz + delta/2 * sz + tsc * tx - tsf * ty * sy        
+H_sys_notsc_notsf = epsilon/2 * tz + delta/2 * sz        
+H_sys_notsf = epsilon/2 * tz + delta/2 * sz + tsc * tx 
+
+H_ref = 1/2 * tz - 1/2 * sz
 
 drive_op = tz
 
