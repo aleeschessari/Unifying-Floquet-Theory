@@ -2,33 +2,32 @@ from qutip import *
 import scqubits
 import numpy as np
 
-dim = 12
+dim = 11
 
 EC = 0.264/34
 flux = 0.127
 
 Ejeff = np.abs(np.cos(np.pi*flux))
 
-fluxonium = scqubits.TunableTransmon(
+transmon = scqubits.TunableTransmon(
                EJmax=1,
                EC=EC,
                d=0,
                flux=flux,
                ng=0.0,
-               truncated_dim=10,
                ncut=dim
 )
 
 n_states = 4
 
-H_sys = Qobj(fluxonium.hamiltonian(energy_esys=True)[0:n_states,0:n_states])
+H_sys = Qobj(transmon.hamiltonian(energy_esys=True)[0:n_states,0:n_states])
 
-drive_op = Qobj(fluxonium.n_operator(energy_esys=True)[0:n_states,0:n_states])
+drive_op = Qobj(transmon.n_operator(energy_esys=True)[0:n_states,0:n_states])
 
 wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
 N_rep = 10
-N_fock = 30
+N_fock = 20
 
 num_A = 80
 
