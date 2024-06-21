@@ -15,7 +15,7 @@ H_sys = wq/2 * sz
 
 n_states = 2
 
-N_rep = 10
+N_rep = 10 # this means that we will have 2*N_rep+1 replicas
 N_fock = 30
 
 num_A = 40

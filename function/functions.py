@@ -108,35 +108,50 @@ def construct_eigenvalues_eigenstates_floquet_list(N_rep,last_A,num_A,H_sys,driv
     else:
         u_list = np.linspace(0,last_A,num = num_A)
     
-    evals_list = np.zeros((len(u_list),n_states))
-    evecs_list = []
+    if target_replica == None:
+        evals_list = np.zeros((len(u_list), N_replica_space*drive_op.dims[0][0]))
+        evecs_list = []
 
-    for idx,u in enumerate(u_list):
-    
-        H_qubit = tensor(Qobj(np.diag(np.ones(N_replica_space))),H_sys) + (u)/2*tensor(sp_floquet,drive_op) + (u)/2*tensor(sm_floquet,drive_op)\
-                    +tensor(Qobj(m),qeye(H_sys.dims[0]))
-    
-        evals, ekets = H_qubit.eigenstates()
-                    
-        if u == 0:
-            temp = construct_eigenvalues_eigenstates_floquet(N_rep,0,0,H_sys,drive_op,w_d,n_states,'reduced',target_replica)[1]
-            evecs_list.append(temp)
-            
-        i_max = np.zeros((n_states), dtype=int)
+        for idx,u in enumerate(u_list):
+            H_qubit = tensor(Qobj(np.diag(np.ones(N_replica_space))),H_sys) + (u)/2*tensor(sp_floquet,drive_op) + (u)/2*tensor(sm_floquet,drive_op)\
+                        +tensor(Qobj(m),qeye(H_sys.dims[0]))
         
-        for i,temp_eigv in enumerate(temp):
-            weight = 0
-            for j,eigv in enumerate(ekets):
-                if abs(temp_eigv.overlap(eigv)) > weight:
-                    weight = abs(temp_eigv.overlap(eigv))
-                    evals_list[idx,i] = evals[j] 
-                    i_max[i] = j
+            evals, ekets = H_qubit.eigenstates()
+
+            evals_list[idx,:] = evals
+            evecs_list.append(ekets)
+
+    else:
+        evals_list = np.zeros((len(u_list),n_states))
+        evecs_list = []
+
+        for idx,u in enumerate(u_list):
+        
+            H_qubit = tensor(Qobj(np.diag(np.ones(N_replica_space))),H_sys) + (u)/2*tensor(sp_floquet,drive_op) + (u)/2*tensor(sm_floquet,drive_op)\
+                        +tensor(Qobj(m),qeye(H_sys.dims[0]))
+        
+            evals, ekets = H_qubit.eigenstates()
+                        
+            if u == 0:
+                temp = construct_eigenvalues_eigenstates_floquet(N_rep,0,0,H_sys,drive_op,w_d,n_states,'reduced',target_replica)[1]
+                evecs_list.append(temp)
                 
-        if u != 0:
-            temp = []
-            for i in range(len(i_max)):
-                temp.append(ekets[i_max[i]])
-            evecs_list.append(temp)
+            i_max = np.zeros((n_states), dtype=int)
+            
+            for i,temp_eigv in enumerate(temp):
+                weight = 0
+                for j,eigv in enumerate(ekets):
+                    if abs(temp_eigv.overlap(eigv)) > weight:
+                        weight = abs(temp_eigv.overlap(eigv))
+                        evals_list[idx,i] = evals[j] 
+                        i_max[i] = j
+                    
+            if u != 0:
+                temp = []
+                for i in range(len(i_max)):
+                    temp.append(ekets[i_max[i]])
+                evecs_list.append(temp)
+
 
     return u_list, evals_list, evecs_list
 
