@@ -1,0 +1,14 @@
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.23120504357403868, leakage=0.014
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.1942122366021925, leakage=0.013
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.19883633747367327, leakage=0.031
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.20346043834515404, leakage=0.084
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2080845392166348, leakage=0.011
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2080845392166348, leakage=0.198
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2127086400881156, leakage=0.041
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2127086400881156, leakage=0.25
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.21733274095959637, leakage=0.085
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.21733274095959637, leakage=0.137
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.22195684183107714, leakage=0.042
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.22195684183107714, leakage=0.047
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2265809427025579, leakage=0.014
+Attention : leaking out the cutoff at A_q=0.008554586612239432 and w_d=0.2265809427025579, leakage=0.025

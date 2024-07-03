@@ -14,11 +14,12 @@ wq = 1
 H_sys = wq/2 * sz
 
 n_states = 2
+dim = 2
 
-N_rep = 10 # this means that we will have 2*N_rep+1 replicas
-N_fock = 30
-
-num_A = 40
+num_A = 300
 
 g = 0.01
 kappa = 0.002
+
+fname = 'data/params/charge_qubit.npz'
+np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(), dim=dim, num_A=num_A, g=g, kappa=kappa)

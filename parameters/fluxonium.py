@@ -3,25 +3,32 @@ import scqubits
 import numpy as np
 
 dim = 110
+n_states = 20
+
+EC = 1/4
+EL = 1/4
+flux = 0.5
 
 fluxonium = scqubits.Fluxonium(EJ = 1,
-                           EC = 1/4,
-                           EL = 1/4,
-                           flux = 0.5,
-                           cutoff = dim)
+                           EC = EC,
+                           EL = EL,
+                           flux = flux,
+                           cutoff = dim,
+                           truncated_dim = dim)
 
-n_states = 4
+H_sys = Qobj(fluxonium.hamiltonian(energy_esys=True))
 
-H_sys = Qobj(fluxonium.hamiltonian(energy_esys=True)[0:n_states,0:n_states])
-
-drive_op = Qobj(fluxonium.n_operator(energy_esys=True)[0:n_states,0:n_states])
+drive_op = Qobj(fluxonium.n_operator(energy_esys=True))
 
 wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
-N_rep = 10 # this means that we will have 2*N_rep+1 replicas
-N_fock = 30
-
-num_A = 40
+num_A = 80
 
 g  = 0.02/4
 kappa = 0.001/4
+
+fname = 'data/params/fluxonium.npz'
+np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(),\
+    dim=dim, num_A=num_A, g=g, kappa=kappa, EC=EC, EL=EL, flux=flux)
+
+# convergenza 10 stati 5 repliche

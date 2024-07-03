@@ -1,4 +1,4 @@
-from qutip import tensor, qeye, destroy
+from qutip import *
 import numpy as np
 
 delta = 1
@@ -29,12 +29,15 @@ drive_op = tz
 
 wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
-N_rep = 10 # this means that we will have 2*N_rep+1 replicas
-N_fock = 30
-
 n_states = 4
+dim = 4
 
-num_A = 40
+num_A = 100
 
 g  = 0.01 
 kappa = 0.002
+
+fname = 'data/params/flopping_charge.npz'
+np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(), H_sys_notsc_notsf=H_sys_notsc_notsf.full(),\
+    H_sys_notsf=H_sys_notsf.full(), H_ref=H_ref.full(),\
+    dim=dim, num_A=num_A, g=g, kappa=kappa)

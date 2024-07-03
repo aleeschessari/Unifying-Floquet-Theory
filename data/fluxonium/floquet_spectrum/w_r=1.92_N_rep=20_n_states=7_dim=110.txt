@@ -1,0 +1,143 @@
+not enough states to describe the ground state at A_q=0.0601010101010101 and w_d=0.27928751827059384, leakage=0.01
+not enough states to describe the ground state at A_q=0.06363636363636363 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.06717171717171717 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.0707070707070707 and w_d=0.27928751827059384, leakage=0.012
+not enough states to describe the ground state at A_q=0.07424242424242423 and w_d=0.27928751827059384, leakage=0.013
+not enough states to describe the ground state at A_q=0.07777777777777778 and w_d=0.27928751827059384, leakage=0.013
+not enough states to describe the ground state at A_q=0.08131313131313131 and w_d=0.27928751827059384, leakage=0.014
+not enough states to describe the ground state at A_q=0.08484848484848484 and w_d=0.27928751827059384, leakage=0.014
+not enough states to describe the ground state at A_q=0.08838383838383838 and w_d=0.27928751827059384, leakage=0.015
+not enough states to describe the ground state at A_q=0.09191919191919191 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.09545454545454544 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.09898989898989899 and w_d=0.27928751827059384, leakage=0.017
+not enough states to describe the ground state at A_q=0.10252525252525252 and w_d=0.27928751827059384, leakage=0.017
+not enough states to describe the ground state at A_q=0.10606060606060605 and w_d=0.27928751827059384, leakage=0.018
+not enough states to describe the ground state at A_q=0.1095959595959596 and w_d=0.27928751827059384, leakage=0.019
+not enough states to describe the ground state at A_q=0.11313131313131312 and w_d=0.27928751827059384, leakage=0.019
+not enough states to describe the ground state at A_q=0.11666666666666665 and w_d=0.27928751827059384, leakage=0.02
+not enough states to describe the ground state at A_q=0.1202020202020202 and w_d=0.27928751827059384, leakage=0.02
+not enough states to describe the ground state at A_q=0.12373737373737373 and w_d=0.27928751827059384, leakage=0.021
+not enough states to describe the ground state at A_q=0.12727272727272726 and w_d=0.27928751827059384, leakage=0.022
+not enough states to describe the ground state at A_q=0.1308080808080808 and w_d=0.27928751827059384, leakage=0.022
+not enough states to describe the ground state at A_q=0.13434343434343435 and w_d=0.27928751827059384, leakage=0.023
+not enough states to describe the ground state at A_q=0.13787878787878788 and w_d=0.27928751827059384, leakage=0.023
+not enough states to describe the ground state at A_q=0.1414141414141414 and w_d=0.27928751827059384, leakage=0.024
+not enough states to describe the first excited state at A_q=0.1414141414141414 and w_d=0.27928751827059384, leakage=0.01
+not enough states to describe the ground state at A_q=0.14494949494949494 and w_d=0.27928751827059384, leakage=0.025
+not enough states to describe the first excited state at A_q=0.14494949494949494 and w_d=0.27928751827059384, leakage=0.01
+not enough states to describe the ground state at A_q=0.14848484848484847 and w_d=0.27928751827059384, leakage=0.025
+not enough states to describe the first excited state at A_q=0.14848484848484847 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.152020202020202 and w_d=0.27928751827059384, leakage=0.026
+not enough states to describe the first excited state at A_q=0.152020202020202 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.15555555555555556 and w_d=0.27928751827059384, leakage=0.027
+not enough states to describe the first excited state at A_q=0.15555555555555556 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.1590909090909091 and w_d=0.27928751827059384, leakage=0.027
+not enough states to describe the first excited state at A_q=0.1590909090909091 and w_d=0.27928751827059384, leakage=0.011
+not enough states to describe the ground state at A_q=0.16262626262626262 and w_d=0.27928751827059384, leakage=0.028
+not enough states to describe the first excited state at A_q=0.16262626262626262 and w_d=0.27928751827059384, leakage=0.012
+not enough states to describe the ground state at A_q=0.16616161616161615 and w_d=0.27928751827059384, leakage=0.028
+not enough states to describe the first excited state at A_q=0.16616161616161615 and w_d=0.27928751827059384, leakage=0.012
+not enough states to describe the ground state at A_q=0.16969696969696968 and w_d=0.27928751827059384, leakage=0.029
+not enough states to describe the first excited state at A_q=0.16969696969696968 and w_d=0.27928751827059384, leakage=0.012
+not enough states to describe the ground state at A_q=0.1732323232323232 and w_d=0.27928751827059384, leakage=0.03
+not enough states to describe the first excited state at A_q=0.1732323232323232 and w_d=0.27928751827059384, leakage=0.013
+not enough states to describe the ground state at A_q=0.17676767676767677 and w_d=0.27928751827059384, leakage=0.03
+not enough states to describe the first excited state at A_q=0.17676767676767677 and w_d=0.27928751827059384, leakage=0.013
+not enough states to describe the ground state at A_q=0.1803030303030303 and w_d=0.27928751827059384, leakage=0.031
+not enough states to describe the first excited state at A_q=0.1803030303030303 and w_d=0.27928751827059384, leakage=0.013
+not enough states to describe the ground state at A_q=0.18383838383838383 and w_d=0.27928751827059384, leakage=0.032
+not enough states to describe the first excited state at A_q=0.18383838383838383 and w_d=0.27928751827059384, leakage=0.014
+not enough states to describe the ground state at A_q=0.18737373737373736 and w_d=0.27928751827059384, leakage=0.032
+not enough states to describe the first excited state at A_q=0.18737373737373736 and w_d=0.27928751827059384, leakage=0.014
+not enough states to describe the ground state at A_q=0.1909090909090909 and w_d=0.27928751827059384, leakage=0.033
+not enough states to describe the first excited state at A_q=0.1909090909090909 and w_d=0.27928751827059384, leakage=0.014
+not enough states to describe the ground state at A_q=0.19444444444444442 and w_d=0.27928751827059384, leakage=0.034
+not enough states to describe the first excited state at A_q=0.19444444444444442 and w_d=0.27928751827059384, leakage=0.015
+not enough states to describe the ground state at A_q=0.19797979797979798 and w_d=0.27928751827059384, leakage=0.034
+not enough states to describe the first excited state at A_q=0.19797979797979798 and w_d=0.27928751827059384, leakage=0.015
+not enough states to describe the ground state at A_q=0.2015151515151515 and w_d=0.27928751827059384, leakage=0.035
+not enough states to describe the first excited state at A_q=0.2015151515151515 and w_d=0.27928751827059384, leakage=0.015
+not enough states to describe the ground state at A_q=0.20505050505050504 and w_d=0.27928751827059384, leakage=0.036
+not enough states to describe the first excited state at A_q=0.20505050505050504 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.20858585858585857 and w_d=0.27928751827059384, leakage=0.036
+not enough states to describe the first excited state at A_q=0.20858585858585857 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.2121212121212121 and w_d=0.27928751827059384, leakage=0.037
+not enough states to describe the first excited state at A_q=0.2121212121212121 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.21565656565656563 and w_d=0.27928751827059384, leakage=0.038
+not enough states to describe the first excited state at A_q=0.21565656565656563 and w_d=0.27928751827059384, leakage=0.016
+not enough states to describe the ground state at A_q=0.2191919191919192 and w_d=0.27928751827059384, leakage=0.038
+not enough states to describe the first excited state at A_q=0.2191919191919192 and w_d=0.27928751827059384, leakage=0.017
+not enough states to describe the ground state at A_q=0.22272727272727272 and w_d=0.27928751827059384, leakage=0.039
+not enough states to describe the first excited state at A_q=0.22272727272727272 and w_d=0.27928751827059384, leakage=0.017
+not enough states to describe the ground state at A_q=0.22626262626262625 and w_d=0.27928751827059384, leakage=0.04
+not enough states to describe the first excited state at A_q=0.22626262626262625 and w_d=0.27928751827059384, leakage=0.018
+not enough states to describe the ground state at A_q=0.22979797979797978 and w_d=0.27928751827059384, leakage=0.04
+not enough states to describe the first excited state at A_q=0.22979797979797978 and w_d=0.27928751827059384, leakage=0.018
+not enough states to describe the ground state at A_q=0.2333333333333333 and w_d=0.27928751827059384, leakage=0.041
+not enough states to describe the first excited state at A_q=0.2333333333333333 and w_d=0.27928751827059384, leakage=0.018
+not enough states to describe the ground state at A_q=0.23686868686868687 and w_d=0.27928751827059384, leakage=0.042
+not enough states to describe the first excited state at A_q=0.23686868686868687 and w_d=0.27928751827059384, leakage=0.019
+not enough states to describe the ground state at A_q=0.2404040404040404 and w_d=0.27928751827059384, leakage=0.042
+not enough states to describe the first excited state at A_q=0.2404040404040404 and w_d=0.27928751827059384, leakage=0.019
+not enough states to describe the ground state at A_q=0.24393939393939393 and w_d=0.27928751827059384, leakage=0.043
+not enough states to describe the first excited state at A_q=0.24393939393939393 and w_d=0.27928751827059384, leakage=0.019
+not enough states to describe the ground state at A_q=0.24747474747474746 and w_d=0.27928751827059384, leakage=0.044
+not enough states to describe the first excited state at A_q=0.24747474747474746 and w_d=0.27928751827059384, leakage=0.02
+not enough states to describe the ground state at A_q=0.251010101010101 and w_d=0.27928751827059384, leakage=0.044
+not enough states to describe the first excited state at A_q=0.251010101010101 and w_d=0.27928751827059384, leakage=0.02
+not enough states to describe the ground state at A_q=0.2545454545454545 and w_d=0.27928751827059384, leakage=0.045
+not enough states to describe the first excited state at A_q=0.2545454545454545 and w_d=0.27928751827059384, leakage=0.02
+not enough states to describe the ground state at A_q=0.2580808080808081 and w_d=0.27928751827059384, leakage=0.046
+not enough states to describe the first excited state at A_q=0.2580808080808081 and w_d=0.27928751827059384, leakage=0.021
+not enough states to describe the ground state at A_q=0.2616161616161616 and w_d=0.27928751827059384, leakage=0.046
+not enough states to describe the first excited state at A_q=0.2616161616161616 and w_d=0.27928751827059384, leakage=0.021
+not enough states to describe the ground state at A_q=0.26515151515151514 and w_d=0.27928751827059384, leakage=0.047
+not enough states to describe the first excited state at A_q=0.26515151515151514 and w_d=0.27928751827059384, leakage=0.021
+not enough states to describe the ground state at A_q=0.2686868686868687 and w_d=0.27928751827059384, leakage=0.048
+not enough states to describe the first excited state at A_q=0.2686868686868687 and w_d=0.27928751827059384, leakage=0.022
+not enough states to describe the ground state at A_q=0.2722222222222222 and w_d=0.27928751827059384, leakage=0.048
+not enough states to describe the first excited state at A_q=0.2722222222222222 and w_d=0.27928751827059384, leakage=0.022
+not enough states to describe the ground state at A_q=0.27575757575757576 and w_d=0.27928751827059384, leakage=0.049
+not enough states to describe the first excited state at A_q=0.27575757575757576 and w_d=0.27928751827059384, leakage=0.023
+not enough states to describe the ground state at A_q=0.27929292929292926 and w_d=0.27928751827059384, leakage=0.05
+not enough states to describe the first excited state at A_q=0.27929292929292926 and w_d=0.27928751827059384, leakage=0.023
+not enough states to describe the ground state at A_q=0.2828282828282828 and w_d=0.27928751827059384, leakage=0.05
+not enough states to describe the first excited state at A_q=0.2828282828282828 and w_d=0.27928751827059384, leakage=0.023
+not enough states to describe the ground state at A_q=0.2863636363636363 and w_d=0.27928751827059384, leakage=0.051
+not enough states to describe the first excited state at A_q=0.2863636363636363 and w_d=0.27928751827059384, leakage=0.024
+not enough states to describe the ground state at A_q=0.2898989898989899 and w_d=0.27928751827059384, leakage=0.052
+not enough states to describe the first excited state at A_q=0.2898989898989899 and w_d=0.27928751827059384, leakage=0.024
+not enough states to describe the ground state at A_q=0.29343434343434344 and w_d=0.27928751827059384, leakage=0.053
+not enough states to describe the first excited state at A_q=0.29343434343434344 and w_d=0.27928751827059384, leakage=0.024
+not enough states to describe the ground state at A_q=0.29696969696969694 and w_d=0.27928751827059384, leakage=0.053
+not enough states to describe the first excited state at A_q=0.29696969696969694 and w_d=0.27928751827059384, leakage=0.025
+not enough states to describe the ground state at A_q=0.3005050505050505 and w_d=0.27928751827059384, leakage=0.054
+not enough states to describe the first excited state at A_q=0.3005050505050505 and w_d=0.27928751827059384, leakage=0.025
+not enough states to describe the ground state at A_q=0.304040404040404 and w_d=0.27928751827059384, leakage=0.055
+not enough states to describe the first excited state at A_q=0.304040404040404 and w_d=0.27928751827059384, leakage=0.026
+not enough states to describe the ground state at A_q=0.30757575757575756 and w_d=0.27928751827059384, leakage=0.056
+not enough states to describe the first excited state at A_q=0.30757575757575756 and w_d=0.27928751827059384, leakage=0.026
+not enough states to describe the ground state at A_q=0.3111111111111111 and w_d=0.27928751827059384, leakage=0.056
+not enough states to describe the first excited state at A_q=0.3111111111111111 and w_d=0.27928751827059384, leakage=0.026
+not enough states to describe the ground state at A_q=0.3146464646464646 and w_d=0.27928751827059384, leakage=0.057
+not enough states to describe the first excited state at A_q=0.3146464646464646 and w_d=0.27928751827059384, leakage=0.027
+not enough states to describe the ground state at A_q=0.3181818181818182 and w_d=0.27928751827059384, leakage=0.058
+not enough states to describe the first excited state at A_q=0.3181818181818182 and w_d=0.27928751827059384, leakage=0.027
+not enough states to describe the ground state at A_q=0.3217171717171717 and w_d=0.27928751827059384, leakage=0.058
+not enough states to describe the first excited state at A_q=0.3217171717171717 and w_d=0.27928751827059384, leakage=0.028
+not enough states to describe the ground state at A_q=0.32525252525252524 and w_d=0.27928751827059384, leakage=0.059
+not enough states to describe the first excited state at A_q=0.32525252525252524 and w_d=0.27928751827059384, leakage=0.028
+not enough states to describe the ground state at A_q=0.32878787878787874 and w_d=0.27928751827059384, leakage=0.06
+not enough states to describe the first excited state at A_q=0.32878787878787874 and w_d=0.27928751827059384, leakage=0.029
+not enough states to describe the ground state at A_q=0.3323232323232323 and w_d=0.27928751827059384, leakage=0.061
+not enough states to describe the first excited state at A_q=0.3323232323232323 and w_d=0.27928751827059384, leakage=0.029
+not enough states to describe the ground state at A_q=0.33585858585858586 and w_d=0.27928751827059384, leakage=0.061
+not enough states to describe the first excited state at A_q=0.33585858585858586 and w_d=0.27928751827059384, leakage=0.029
+not enough states to describe the ground state at A_q=0.33939393939393936 and w_d=0.27928751827059384, leakage=0.062
+not enough states to describe the first excited state at A_q=0.33939393939393936 and w_d=0.27928751827059384, leakage=0.03
+not enough states to describe the ground state at A_q=0.3429292929292929 and w_d=0.27928751827059384, leakage=0.063
+not enough states to describe the first excited state at A_q=0.3429292929292929 and w_d=0.27928751827059384, leakage=0.03
+not enough states to describe the ground state at A_q=0.3464646464646464 and w_d=0.27928751827059384, leakage=0.064
+not enough states to describe the first excited state at A_q=0.3464646464646464 and w_d=0.27928751827059384, leakage=0.031
+not enough states to describe the ground state at A_q=0.35 and w_d=0.27928751827059384, leakage=0.064
+not enough states to describe the first excited state at A_q=0.35 and w_d=0.27928751827059384, leakage=0.031

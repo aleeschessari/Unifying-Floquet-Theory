@@ -1,0 +1,340 @@
+not enough replicas to describe the ground state at A_q=1.575757575757576 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=1.6161616161616164 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=1.6565656565656568 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=1.696969696969697 and w_d=0.8, leakage=0.015
+not enough replicas to describe the ground state at A_q=1.7373737373737375 and w_d=0.8, leakage=0.016
+not enough replicas to describe the ground state at A_q=1.777777777777778 and w_d=0.8, leakage=0.018
+not enough replicas to describe the ground state at A_q=1.8181818181818183 and w_d=0.8, leakage=0.019
+not enough replicas to describe the ground state at A_q=1.8585858585858588 and w_d=0.8, leakage=0.02
+not enough replicas to describe the ground state at A_q=1.8989898989898992 and w_d=0.8, leakage=0.022
+not enough replicas to describe the ground state at A_q=1.9393939393939394 and w_d=0.8, leakage=0.023
+not enough replicas to describe the ground state at A_q=1.97979797979798 and w_d=0.8, leakage=0.025
+not enough replicas to describe the ground state at A_q=2.0202020202020203 and w_d=0.8, leakage=0.026
+not enough replicas to describe the ground state at A_q=2.060606060606061 and w_d=0.8, leakage=0.028
+not enough replicas to describe the ground state at A_q=2.101010101010101 and w_d=0.8, leakage=0.029
+not enough replicas to describe the ground state at A_q=2.1414141414141414 and w_d=0.8, leakage=0.031
+not enough replicas to describe the ground state at A_q=2.181818181818182 and w_d=0.8, leakage=0.032
+not enough replicas to describe the ground state at A_q=2.2222222222222223 and w_d=0.8, leakage=0.034
+not enough replicas to describe the ground state at A_q=2.262626262626263 and w_d=0.8, leakage=0.036
+not enough replicas to describe the ground state at A_q=2.303030303030303 and w_d=0.8, leakage=0.037
+not enough replicas to describe the ground state at A_q=2.3434343434343434 and w_d=0.8, leakage=0.039
+not enough replicas to describe the ground state at A_q=2.383838383838384 and w_d=0.8, leakage=0.041
+not enough replicas to describe the ground state at A_q=2.4242424242424243 and w_d=0.8, leakage=0.042
+not enough replicas to describe the ground state at A_q=2.464646464646465 and w_d=0.8, leakage=0.044
+not enough replicas to describe the ground state at A_q=2.505050505050505 and w_d=0.8, leakage=0.045
+not enough replicas to describe the ground state at A_q=2.545454545454546 and w_d=0.8, leakage=0.047
+not enough replicas to describe the ground state at A_q=2.585858585858586 and w_d=0.8, leakage=0.048
+not enough replicas to describe the ground state at A_q=2.6262626262626263 and w_d=0.8, leakage=0.05
+not enough replicas to describe the ground state at A_q=2.666666666666667 and w_d=0.8, leakage=0.051
+not enough replicas to describe the ground state at A_q=2.707070707070707 and w_d=0.8, leakage=0.053
+not enough replicas to describe the ground state at A_q=2.747474747474748 and w_d=0.8, leakage=0.054
+not enough replicas to describe the ground state at A_q=2.787878787878788 and w_d=0.8, leakage=0.055
+not enough replicas to describe the ground state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.056
+not enough replicas to describe the first excited state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.01
+not enough replicas to describe the ground state at A_q=2.868686868686869 and w_d=0.8, leakage=0.058
+not enough replicas to describe the first excited state at A_q=2.868686868686869 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=2.909090909090909 and w_d=0.8, leakage=0.059
+not enough replicas to describe the first excited state at A_q=2.909090909090909 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=2.94949494949495 and w_d=0.8, leakage=0.06
+not enough replicas to describe the first excited state at A_q=2.94949494949495 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=2.98989898989899 and w_d=0.8, leakage=0.062
+not enough replicas to describe the first excited state at A_q=2.98989898989899 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.064
+not enough replicas to describe the first excited state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.015
+not enough replicas to describe the ground state at A_q=3.070707070707071 and w_d=0.8, leakage=0.065
+not enough replicas to describe the first excited state at A_q=3.070707070707071 and w_d=0.8, leakage=0.017
+not enough replicas to describe the ground state at A_q=3.111111111111111 and w_d=0.8, leakage=0.067
+not enough replicas to describe the first excited state at A_q=3.111111111111111 and w_d=0.8, leakage=0.018
+not enough replicas to describe the ground state at A_q=3.151515151515152 and w_d=0.8, leakage=0.07
+not enough replicas to describe the first excited state at A_q=3.151515151515152 and w_d=0.8, leakage=0.019
+not enough replicas to describe the ground state at A_q=3.191919191919192 and w_d=0.8, leakage=0.072
+not enough replicas to describe the first excited state at A_q=3.191919191919192 and w_d=0.8, leakage=0.02
+not enough replicas to describe the ground state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.074
+not enough replicas to describe the first excited state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.021
+not enough replicas to describe the ground state at A_q=3.272727272727273 and w_d=0.8, leakage=0.077
+not enough replicas to describe the first excited state at A_q=3.272727272727273 and w_d=0.8, leakage=0.022
+not enough replicas to describe the ground state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.08
+not enough replicas to describe the first excited state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.023
+not enough replicas to describe the ground state at A_q=3.353535353535354 and w_d=0.8, leakage=0.084
+not enough replicas to describe the first excited state at A_q=3.353535353535354 and w_d=0.8, leakage=0.024
+not enough replicas to describe the ground state at A_q=3.393939393939394 and w_d=0.8, leakage=0.087
+not enough replicas to describe the first excited state at A_q=3.393939393939394 and w_d=0.8, leakage=0.026
+not enough replicas to describe the ground state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.091
+not enough replicas to describe the first excited state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.027
+not enough replicas to describe the ground state at A_q=3.474747474747475 and w_d=0.8, leakage=0.095
+not enough replicas to describe the first excited state at A_q=3.474747474747475 and w_d=0.8, leakage=0.028
+not enough replicas to describe the ground state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.099
+not enough replicas to describe the first excited state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.029
+not enough replicas to describe the ground state at A_q=3.555555555555556 and w_d=0.8, leakage=0.104
+not enough replicas to describe the first excited state at A_q=3.555555555555556 and w_d=0.8, leakage=0.03
+not enough replicas to describe the ground state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.109
+not enough replicas to describe the first excited state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.032
+not enough replicas to describe the ground state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.115
+not enough replicas to describe the first excited state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.033
+not enough replicas to describe the ground state at A_q=3.676767676767677 and w_d=0.8, leakage=0.12
+not enough replicas to describe the first excited state at A_q=3.676767676767677 and w_d=0.8, leakage=0.034
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.126
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.035
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.133
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.036
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.139
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.037
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.146
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.039
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.153
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.04
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.161
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.041
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.168
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.042
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.176
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.043
+not enough replicas to describe the ground state at A_q=2.303030303030303 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=2.3434343434343434 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=2.383838383838384 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=2.4242424242424243 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=2.464646464646465 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=2.505050505050505 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=2.545454545454546 and w_d=0.8, leakage=0.015
+not enough replicas to describe the ground state at A_q=2.585858585858586 and w_d=0.8, leakage=0.016
+not enough replicas to describe the ground state at A_q=2.6262626262626263 and w_d=0.8, leakage=0.016
+not enough replicas to describe the ground state at A_q=2.666666666666667 and w_d=0.8, leakage=0.017
+not enough replicas to describe the ground state at A_q=2.707070707070707 and w_d=0.8, leakage=0.018
+not enough replicas to describe the ground state at A_q=2.747474747474748 and w_d=0.8, leakage=0.019
+not enough replicas to describe the ground state at A_q=2.787878787878788 and w_d=0.8, leakage=0.019
+not enough replicas to describe the ground state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.02
+not enough replicas to describe the ground state at A_q=2.868686868686869 and w_d=0.8, leakage=0.021
+not enough replicas to describe the ground state at A_q=2.909090909090909 and w_d=0.8, leakage=0.022
+not enough replicas to describe the ground state at A_q=2.94949494949495 and w_d=0.8, leakage=0.023
+not enough replicas to describe the ground state at A_q=2.98989898989899 and w_d=0.8, leakage=0.024
+not enough replicas to describe the ground state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.025
+not enough replicas to describe the ground state at A_q=3.070707070707071 and w_d=0.8, leakage=0.027
+not enough replicas to describe the ground state at A_q=3.111111111111111 and w_d=0.8, leakage=0.028
+not enough replicas to describe the ground state at A_q=3.151515151515152 and w_d=0.8, leakage=0.03
+not enough replicas to describe the ground state at A_q=3.191919191919192 and w_d=0.8, leakage=0.031
+not enough replicas to describe the ground state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.033
+not enough replicas to describe the ground state at A_q=3.272727272727273 and w_d=0.8, leakage=0.035
+not enough replicas to describe the ground state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.038
+not enough replicas to describe the ground state at A_q=3.353535353535354 and w_d=0.8, leakage=0.04
+not enough replicas to describe the ground state at A_q=3.393939393939394 and w_d=0.8, leakage=0.043
+not enough replicas to describe the ground state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.046
+not enough replicas to describe the ground state at A_q=3.474747474747475 and w_d=0.8, leakage=0.049
+not enough replicas to describe the ground state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.052
+not enough replicas to describe the ground state at A_q=3.555555555555556 and w_d=0.8, leakage=0.056
+not enough replicas to describe the ground state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.06
+not enough replicas to describe the ground state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.065
+not enough replicas to describe the ground state at A_q=3.676767676767677 and w_d=0.8, leakage=0.07
+not enough replicas to describe the first excited state at A_q=3.676767676767677 and w_d=0.8, leakage=0.01
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.075
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.08
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.086
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.092
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.099
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.105
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.112
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.119
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=3.272727272727273 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.012
+not enough replicas to describe the ground state at A_q=3.353535353535354 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=3.393939393939394 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.015
+not enough replicas to describe the ground state at A_q=3.474747474747475 and w_d=0.8, leakage=0.016
+not enough replicas to describe the ground state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.018
+not enough replicas to describe the ground state at A_q=3.555555555555556 and w_d=0.8, leakage=0.02
+not enough replicas to describe the ground state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.021
+not enough replicas to describe the ground state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.024
+not enough replicas to describe the ground state at A_q=3.676767676767677 and w_d=0.8, leakage=0.026
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.028
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.031
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.034
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.037
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.04
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.043
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.047
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.051
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.01
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.011
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.013
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.014
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.016
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.017
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.019
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.021
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.01
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.016
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.017
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.019
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.021
+not enough replicas to describe the first excited state at A_q=3.272727272727273 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=3.353535353535354 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=3.393939393939394 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.015
+not enough replicas to describe the first excited state at A_q=3.474747474747475 and w_d=0.8, leakage=0.016
+not enough replicas to describe the first excited state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.018
+not enough replicas to describe the first excited state at A_q=3.555555555555556 and w_d=0.8, leakage=0.02
+not enough replicas to describe the first excited state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.021
+not enough replicas to describe the first excited state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.024
+not enough replicas to describe the first excited state at A_q=3.676767676767677 and w_d=0.8, leakage=0.026
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.028
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.031
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.034
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.037
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.04
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.043
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.047
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.051
+not enough replicas to describe the first excited state at A_q=2.303030303030303 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=2.3434343434343434 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=2.383838383838384 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=2.4242424242424243 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=2.464646464646465 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=2.505050505050505 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=2.545454545454546 and w_d=0.8, leakage=0.015
+not enough replicas to describe the first excited state at A_q=2.585858585858586 and w_d=0.8, leakage=0.016
+not enough replicas to describe the first excited state at A_q=2.6262626262626263 and w_d=0.8, leakage=0.016
+not enough replicas to describe the first excited state at A_q=2.666666666666667 and w_d=0.8, leakage=0.017
+not enough replicas to describe the first excited state at A_q=2.707070707070707 and w_d=0.8, leakage=0.018
+not enough replicas to describe the first excited state at A_q=2.747474747474748 and w_d=0.8, leakage=0.019
+not enough replicas to describe the first excited state at A_q=2.787878787878788 and w_d=0.8, leakage=0.019
+not enough replicas to describe the first excited state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.02
+not enough replicas to describe the first excited state at A_q=2.868686868686869 and w_d=0.8, leakage=0.021
+not enough replicas to describe the first excited state at A_q=2.909090909090909 and w_d=0.8, leakage=0.022
+not enough replicas to describe the first excited state at A_q=2.94949494949495 and w_d=0.8, leakage=0.023
+not enough replicas to describe the first excited state at A_q=2.98989898989899 and w_d=0.8, leakage=0.024
+not enough replicas to describe the first excited state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.025
+not enough replicas to describe the first excited state at A_q=3.070707070707071 and w_d=0.8, leakage=0.027
+not enough replicas to describe the first excited state at A_q=3.111111111111111 and w_d=0.8, leakage=0.028
+not enough replicas to describe the first excited state at A_q=3.151515151515152 and w_d=0.8, leakage=0.03
+not enough replicas to describe the first excited state at A_q=3.191919191919192 and w_d=0.8, leakage=0.031
+not enough replicas to describe the first excited state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.033
+not enough replicas to describe the first excited state at A_q=3.272727272727273 and w_d=0.8, leakage=0.035
+not enough replicas to describe the first excited state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.038
+not enough replicas to describe the first excited state at A_q=3.353535353535354 and w_d=0.8, leakage=0.04
+not enough replicas to describe the first excited state at A_q=3.393939393939394 and w_d=0.8, leakage=0.043
+not enough replicas to describe the first excited state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.046
+not enough replicas to describe the first excited state at A_q=3.474747474747475 and w_d=0.8, leakage=0.049
+not enough replicas to describe the first excited state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.052
+not enough replicas to describe the first excited state at A_q=3.555555555555556 and w_d=0.8, leakage=0.056
+not enough replicas to describe the first excited state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.06
+not enough replicas to describe the first excited state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.065
+not enough replicas to describe the ground state at A_q=3.676767676767677 and w_d=0.8, leakage=0.01
+not enough replicas to describe the first excited state at A_q=3.676767676767677 and w_d=0.8, leakage=0.07
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.075
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.08
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.086
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.092
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.099
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.105
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.112
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.119
+not enough replicas to describe the first excited state at A_q=1.575757575757576 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=1.6161616161616164 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=1.6565656565656568 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=1.696969696969697 and w_d=0.8, leakage=0.015
+not enough replicas to describe the first excited state at A_q=1.7373737373737375 and w_d=0.8, leakage=0.016
+not enough replicas to describe the first excited state at A_q=1.777777777777778 and w_d=0.8, leakage=0.018
+not enough replicas to describe the first excited state at A_q=1.8181818181818183 and w_d=0.8, leakage=0.019
+not enough replicas to describe the first excited state at A_q=1.8585858585858588 and w_d=0.8, leakage=0.02
+not enough replicas to describe the first excited state at A_q=1.8989898989898992 and w_d=0.8, leakage=0.022
+not enough replicas to describe the first excited state at A_q=1.9393939393939394 and w_d=0.8, leakage=0.023
+not enough replicas to describe the first excited state at A_q=1.97979797979798 and w_d=0.8, leakage=0.025
+not enough replicas to describe the first excited state at A_q=2.0202020202020203 and w_d=0.8, leakage=0.026
+not enough replicas to describe the first excited state at A_q=2.060606060606061 and w_d=0.8, leakage=0.028
+not enough replicas to describe the first excited state at A_q=2.101010101010101 and w_d=0.8, leakage=0.029
+not enough replicas to describe the first excited state at A_q=2.1414141414141414 and w_d=0.8, leakage=0.031
+not enough replicas to describe the first excited state at A_q=2.181818181818182 and w_d=0.8, leakage=0.032
+not enough replicas to describe the first excited state at A_q=2.2222222222222223 and w_d=0.8, leakage=0.034
+not enough replicas to describe the first excited state at A_q=2.262626262626263 and w_d=0.8, leakage=0.036
+not enough replicas to describe the first excited state at A_q=2.303030303030303 and w_d=0.8, leakage=0.037
+not enough replicas to describe the first excited state at A_q=2.3434343434343434 and w_d=0.8, leakage=0.039
+not enough replicas to describe the first excited state at A_q=2.383838383838384 and w_d=0.8, leakage=0.041
+not enough replicas to describe the first excited state at A_q=2.4242424242424243 and w_d=0.8, leakage=0.042
+not enough replicas to describe the first excited state at A_q=2.464646464646465 and w_d=0.8, leakage=0.044
+not enough replicas to describe the first excited state at A_q=2.505050505050505 and w_d=0.8, leakage=0.045
+not enough replicas to describe the first excited state at A_q=2.545454545454546 and w_d=0.8, leakage=0.047
+not enough replicas to describe the first excited state at A_q=2.585858585858586 and w_d=0.8, leakage=0.048
+not enough replicas to describe the first excited state at A_q=2.6262626262626263 and w_d=0.8, leakage=0.05
+not enough replicas to describe the first excited state at A_q=2.666666666666667 and w_d=0.8, leakage=0.051
+not enough replicas to describe the first excited state at A_q=2.707070707070707 and w_d=0.8, leakage=0.053
+not enough replicas to describe the first excited state at A_q=2.747474747474748 and w_d=0.8, leakage=0.054
+not enough replicas to describe the first excited state at A_q=2.787878787878788 and w_d=0.8, leakage=0.055
+not enough replicas to describe the ground state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.01
+not enough replicas to describe the first excited state at A_q=2.8282828282828287 and w_d=0.8, leakage=0.056
+not enough replicas to describe the ground state at A_q=2.868686868686869 and w_d=0.8, leakage=0.011
+not enough replicas to describe the first excited state at A_q=2.868686868686869 and w_d=0.8, leakage=0.058
+not enough replicas to describe the ground state at A_q=2.909090909090909 and w_d=0.8, leakage=0.012
+not enough replicas to describe the first excited state at A_q=2.909090909090909 and w_d=0.8, leakage=0.059
+not enough replicas to describe the ground state at A_q=2.94949494949495 and w_d=0.8, leakage=0.013
+not enough replicas to describe the first excited state at A_q=2.94949494949495 and w_d=0.8, leakage=0.06
+not enough replicas to describe the ground state at A_q=2.98989898989899 and w_d=0.8, leakage=0.014
+not enough replicas to describe the first excited state at A_q=2.98989898989899 and w_d=0.8, leakage=0.062
+not enough replicas to describe the ground state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.015
+not enough replicas to describe the first excited state at A_q=3.0303030303030307 and w_d=0.8, leakage=0.064
+not enough replicas to describe the ground state at A_q=3.070707070707071 and w_d=0.8, leakage=0.017
+not enough replicas to describe the first excited state at A_q=3.070707070707071 and w_d=0.8, leakage=0.065
+not enough replicas to describe the ground state at A_q=3.111111111111111 and w_d=0.8, leakage=0.018
+not enough replicas to describe the first excited state at A_q=3.111111111111111 and w_d=0.8, leakage=0.067
+not enough replicas to describe the ground state at A_q=3.151515151515152 and w_d=0.8, leakage=0.019
+not enough replicas to describe the first excited state at A_q=3.151515151515152 and w_d=0.8, leakage=0.07
+not enough replicas to describe the ground state at A_q=3.191919191919192 and w_d=0.8, leakage=0.02
+not enough replicas to describe the first excited state at A_q=3.191919191919192 and w_d=0.8, leakage=0.072
+not enough replicas to describe the ground state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.021
+not enough replicas to describe the first excited state at A_q=3.2323232323232327 and w_d=0.8, leakage=0.074
+not enough replicas to describe the ground state at A_q=3.272727272727273 and w_d=0.8, leakage=0.022
+not enough replicas to describe the first excited state at A_q=3.272727272727273 and w_d=0.8, leakage=0.077
+not enough replicas to describe the ground state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.023
+not enough replicas to describe the first excited state at A_q=3.3131313131313136 and w_d=0.8, leakage=0.08
+not enough replicas to describe the ground state at A_q=3.353535353535354 and w_d=0.8, leakage=0.024
+not enough replicas to describe the first excited state at A_q=3.353535353535354 and w_d=0.8, leakage=0.084
+not enough replicas to describe the ground state at A_q=3.393939393939394 and w_d=0.8, leakage=0.026
+not enough replicas to describe the first excited state at A_q=3.393939393939394 and w_d=0.8, leakage=0.087
+not enough replicas to describe the ground state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.027
+not enough replicas to describe the first excited state at A_q=3.4343434343434347 and w_d=0.8, leakage=0.091
+not enough replicas to describe the ground state at A_q=3.474747474747475 and w_d=0.8, leakage=0.028
+not enough replicas to describe the first excited state at A_q=3.474747474747475 and w_d=0.8, leakage=0.095
+not enough replicas to describe the ground state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.029
+not enough replicas to describe the first excited state at A_q=3.5151515151515156 and w_d=0.8, leakage=0.099
+not enough replicas to describe the ground state at A_q=3.555555555555556 and w_d=0.8, leakage=0.03
+not enough replicas to describe the first excited state at A_q=3.555555555555556 and w_d=0.8, leakage=0.104
+not enough replicas to describe the ground state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.032
+not enough replicas to describe the first excited state at A_q=3.5959595959595965 and w_d=0.8, leakage=0.109
+not enough replicas to describe the ground state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.033
+not enough replicas to describe the first excited state at A_q=3.6363636363636367 and w_d=0.8, leakage=0.115
+not enough replicas to describe the ground state at A_q=3.676767676767677 and w_d=0.8, leakage=0.034
+not enough replicas to describe the first excited state at A_q=3.676767676767677 and w_d=0.8, leakage=0.12
+not enough replicas to describe the ground state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.035
+not enough replicas to describe the first excited state at A_q=3.7171717171717176 and w_d=0.8, leakage=0.126
+not enough replicas to describe the ground state at A_q=3.757575757575758 and w_d=0.8, leakage=0.036
+not enough replicas to describe the first excited state at A_q=3.757575757575758 and w_d=0.8, leakage=0.133
+not enough replicas to describe the ground state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.037
+not enough replicas to describe the first excited state at A_q=3.7979797979797985 and w_d=0.8, leakage=0.139
+not enough replicas to describe the ground state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.039
+not enough replicas to describe the first excited state at A_q=3.8383838383838387 and w_d=0.8, leakage=0.146
+not enough replicas to describe the ground state at A_q=3.878787878787879 and w_d=0.8, leakage=0.04
+not enough replicas to describe the first excited state at A_q=3.878787878787879 and w_d=0.8, leakage=0.153
+not enough replicas to describe the ground state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.041
+not enough replicas to describe the first excited state at A_q=3.9191919191919196 and w_d=0.8, leakage=0.161
+not enough replicas to describe the ground state at A_q=3.95959595959596 and w_d=0.8, leakage=0.042
+not enough replicas to describe the first excited state at A_q=3.95959595959596 and w_d=0.8, leakage=0.168
+not enough replicas to describe the ground state at A_q=4.0 and w_d=0.8, leakage=0.043
+not enough replicas to describe the first excited state at A_q=4.0 and w_d=0.8, leakage=0.176

@@ -1,0 +1,4 @@
+Attention : leaking out fock space at A_q=0 and w_d=0.13964375913529692, leakage=0.012
+Attention : leaking out fock space at A_q=0 and w_d=0.13964375913529692, leakage=0.012
+Attention : leaking out fock space at A_q=0 and w_d=0.152735361554231, leakage=0.011
+Attention : leaking out fock space at A_q=0 and w_d=0.152735361554231, leakage=0.02

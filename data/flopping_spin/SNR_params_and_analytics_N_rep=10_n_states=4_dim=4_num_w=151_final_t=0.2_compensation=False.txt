@@ -1,0 +1,2 @@
+(dispersive) derivatives of the spectrum computed in A_q/w_q=0.006666666666666667
+$\chi_{\text{disp}}/\kappa/2$=0.9383649735521058, -0.9016636629871645 obtained at $\omega_r/\omega_q$=0.96 ,1.0399999999999998
