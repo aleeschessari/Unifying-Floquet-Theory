@@ -5,4 +5,4 @@ Instructions to generate the SNR data
 - Then, you need to run SNR_dispersive_params_analytics, this generates the analytical <a(t)> and the values of A_r that generates a long-time dispersive SNR equals to the longitudinal one
 - Finally, you can run the notebook SNR
 
-If you ever use this code, or part of it, please cite 
+If you ever use this code, or part of it, please cite https://arxiv.org/abs/2407.03417
