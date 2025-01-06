@@ -1,0 +1,12 @@
+derivatives of the spectrum computed in A_q/w_q=0.02040579710144928
+derivatives of the spectrum computed in A_q/w_q=0.039536231884057985
+derivatives of the spectrum computed in A_q/w_q=0.08034782608695654
+derivatives of the spectrum computed in A_q/w_q=0.02040579710144928
+derivatives of the spectrum computed in A_q/w_q=0.039536231884057985
+derivatives of the spectrum computed in A_q/w_q=0.08034782608695654
+derivatives of the spectrum computed in A_q/w_q=0.02040579710144928
+derivatives of the spectrum computed in A_q/w_q=0.039536231884057985
+derivatives of the spectrum computed in A_q/w_q=0.08034782608695654
+derivatives of the spectrum computed in A_q/w_q=0.02040579710144928
+derivatives of the spectrum computed in A_q/w_q=0.039536231884057985
+derivatives of the spectrum computed in A_q/w_q=0.08034782608695654

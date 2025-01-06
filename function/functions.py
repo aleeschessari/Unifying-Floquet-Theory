@@ -30,7 +30,7 @@ def construct_eigenstates_nofloquet_static_detuning(H_sys, drive_op, e0_list):
     evals_list = []
     ekets_list = []
     for e0 in e0_list:
-        H = H_sys + e0/2*drive_op
+        H = H_sys + e0/np.sqrt(2)*drive_op
         evals, ekets = np.linalg.eigh(H.full())
         evals_list.append(evals)
         ekets_list.append(ekets)
@@ -95,7 +95,13 @@ def construct_eigenvalues_eigenstates_floquet_list(N_rep, last_A, num_A,
         #partial_weight = cp.einsum('ij,ik->jk', cp.conjugate(ekets), temp)
         partial_weight = temp @ ekets # ekets has dim N_replica_space * N_replica_space. Eigenvectors are on the columns
 
-        weight = partial_weight*cp.conjugate(partial_weight)                
+        weight = partial_weight*cp.conjugate(partial_weight) # on the i-th row the weight of all the kets in the i-th eigenvector
+
+        #print(u)
+        #print(np.shape(weight))
+        #print(np.round(np.real(weight[3,:]),3))
+        #print(np.round(np.real(weight[9,:]),3))
+
         i_max = cp.argmax(weight, axis=1)
         evals_list[idx, :] = evals[i_max] 
 
@@ -279,19 +285,20 @@ def real_time_dynamics(H_sys,A_q,A_d_list,w_r_list,w_d_list,phi,g,drive_op,n_sta
 
             psi0 = tensor(basis(N_fock,0), construct_eigenstates_nofloquet(H_sys, n_states)[1][qubit_state])
 
+            #output = solver.run(psi0, tlist, e_ops=e_ops_list, args=dict) 
             output = solver.run(psi0, tlist, e_ops=e_ops_list, args=dict, ntraj=5) # average over ntraj
 
             res[i,j] = output.expect[0]
             res_fock[i,j] = output.expect[1]
             if np.max(res_fock[i,j])>10**(-2):
-                msg = 'Attention : leaking out fock space at A_q='+str(A_q)+' and w_d='+str(w_d)+', leakage='+str(no.round(np.max(res_fock[i,j]),3))
+                msg = 'Attention : leaking out fock space at A_q='+str(A_q)+' and w_d='+str(w_d)+', leakage='+str(np.round(np.max(res_fock[i,j]),3))
                 print(msg)
                 message += msg+"\n"
 
             if proj != None:
                 res_proj[i,j] = output.expect[2]
                 if np.max(res_proj[i,j])>10**(-2):
-                    msg = 'Attention : leaking out the cutoff at A_q='+str(A_q)+' and w_d='+str(w_d)+', leakage='+str(no.round(np.max(res_proj[i,j]),3))
+                    msg = 'Attention : leaking out the cutoff at A_q='+str(A_q)+' and w_d='+str(w_d)+', leakage='+str(np.round(np.max(res_proj[i,j]),3))
                     print(msg)
                     message += msg+"\n"
 

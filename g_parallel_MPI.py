@@ -18,7 +18,7 @@ if device == 'charge_qubit':
     num_w = 151
 
     wlist = np.linspace(0,2,num_w,endpoint=True)
-    Alist = [0.05*wq,0.5*wq,2.45*wq]
+    Alist = [0.05*wq,0.5*wq,1.5*wq,2.45*wq]
     
     n_states = 2
     N_rep =  60 # this means that we will have 2*N_rep+1 replicas
@@ -42,10 +42,10 @@ elif device == 'transmon':
     num_w = 101
 
     wlist = np.linspace(0,2*wq,101,endpoint=True)
-    Alist = [0.037*wq, 0.09*wq]
+    Alist = [0.01*wq, 0.02*wq]
 
-    N_rep =  25 # this means that we will have 2*N_rep+1 replicas
-    n_states = 25
+    N_rep =  10 # this means that we will have 2*N_rep+1 replicas
+    n_states = 15
     
     Ejeff, EC = data['Ejeff'], data['EC']
     
@@ -54,14 +54,13 @@ elif device == 'transmon':
 elif device == 'fluxonium':
     num_w = 101
 
-    wlist = np.linspace(0,3*wq,101,endpoint=True)
-    Alist = [0.6*wq, 1.2*wq]
+    wlist = np.linspace(40*wq,50*wq,101,endpoint=True)
+    Alist = [0.8*wq, 1.6*wq]
 
-    N_rep =  15 # this means that we will have 2*N_rep+1 replicas
+    N_rep =  10 # this means that we will have 2*N_rep+1 replicas
+    n_states = 20
 
     ground, excited = 0, 1
-
-    n_states = 10
 
 else:
     print('select a valid device')

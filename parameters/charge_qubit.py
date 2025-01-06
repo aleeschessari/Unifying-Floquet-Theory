@@ -21,5 +21,5 @@ num_A = 300
 g = 0.01
 kappa = 0.002
 
-fname = 'data/params/charge_qubit.npz'
+fname = '../data/params/charge_qubit.npz'
 np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(), dim=dim, num_A=num_A, g=g, kappa=kappa)

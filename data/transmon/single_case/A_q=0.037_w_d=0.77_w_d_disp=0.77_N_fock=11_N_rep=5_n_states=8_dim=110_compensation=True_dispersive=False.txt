@@ -1,1 +1,0 @@
-derivatives of the spectrum computed in A_q/w_q=0.03716086956521739

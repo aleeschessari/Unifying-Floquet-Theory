@@ -19,11 +19,11 @@ tz = tensor(2*(destroy(2).dag()*destroy(2)-1/2*qeye(2)) ,qeye(2))
 ty = -1j*(tm.dag()-tm)
 tx = tm+tm.dag()
 
-H_sys = epsilon/2 * tz + delta/2 * sz + tsc * tx - tsf * ty * sy        
-H_sys_notsc_notsf = epsilon/2 * tz + delta/2 * sz        
-H_sys_notsf = epsilon/2 * tz + delta/2 * sz + tsc * tx 
+H_sys = epsilon * tz + delta/2 * sz + tsc * tx - tsf * ty * sy        
+H_sys_notsc_notsf = epsilon * tz + delta/2 * sz        
+H_sys_notsf = epsilon * tz + delta/2 * sz + tsc * tx 
 
-H_ref = 1/2 * tz - 1/2 * sz
+H_ref = tz - 1/2 * sz
 
 drive_op = tz
 
@@ -37,7 +37,7 @@ num_A = 100
 g  = 0.01 
 kappa = 0.002
 
-fname = 'data/params/flopping_charge.npz'
+fname = '../data/params/flopping_charge.npz'
 np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(), H_sys_notsc_notsf=H_sys_notsc_notsf.full(),\
     H_sys_notsf=H_sys_notsf.full(), H_ref=H_ref.full(),\
     dim=dim, num_A=num_A, g=g, kappa=kappa)

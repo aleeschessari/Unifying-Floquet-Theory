@@ -1,1 +1,0 @@
-(dispersive) derivatives of the spectrum computed in A_q/w_q=0.0002784810126582279

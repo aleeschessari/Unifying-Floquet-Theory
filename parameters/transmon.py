@@ -4,8 +4,8 @@ import numpy as np
 
 dim = 110
 
-EC = 0.264/34
-flux = 0.127
+EC = 0.264/31.3
+flux = 0
 
 Ejeff = np.abs(np.cos(np.pi*flux))
 
@@ -27,10 +27,10 @@ wq = H_sys.eigenenergies()[1]-H_sys.eigenenergies()[0]
 
 num_A = 70
 
-g = 0.130/34/1.4
-kappa = 0.002/34
+g = 0.130/31.3/1.4
+kappa = 0.002/31.3
 
-fname = 'data/params/transmon.npz'
+fname = '../data/params/transmon.npz'
 np.savez(fname, drive_op=drive_op.full(), wq=wq, H_sys=H_sys.full(),\
     dim=dim, num_A=num_A, g=g, kappa=kappa, Ejeff=Ejeff, EC=EC, flux=flux)
 

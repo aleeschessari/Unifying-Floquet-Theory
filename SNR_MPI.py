@@ -18,11 +18,11 @@ H_sys, drive_op, wq, g, kappa, num_A, dim = data['H_sys'], data['drive_op'], dat
 if device == 'charge_qubit':
     num_w = 151
     
-    N_rep_import = 40
+    N_rep_import = 60
     n_states_import = 2
     
     n_states = 2
-    N_fock = 6
+    N_fock = 8
 
     proj = None
 
@@ -40,26 +40,26 @@ elif device == 'flopping_spin':
 elif device == 'transmon':
     num_w = 101
     
-    N_rep_import = 25
-    n_states_import = 25
+    N_rep_import = 10
+    n_states_import = 15
     
-    N_fock = 35
-    n_states = 25
+    N_fock = 14
+    n_states = 15
 
     cutoff = 4
-    proj = Qobj(np.diag(np.concatenate((np.zeros(cutoff),np.ones(n_states-cutoff)))))
+    proj = Qobj(np.diag(np.concatenate((np.zeros(n_states-cutoff),np.ones(cutoff)))))
 
 elif device == 'fluxonium':
     num_w = 101
     
-    N_rep_import = 15
-    n_states_import = 10
-    
+    N_rep_import = 10
+    n_states_import = 20
+
+    N_fock = 8
     n_states = 10
-    N_fock = 7
 
     cutoff = 4
-    proj = Qobj(np.diag(np.concatenate((np.zeros(cutoff),np.ones(n_states-cutoff)))))
+    proj = Qobj(np.diag(np.concatenate((np.zeros(n_states-cutoff),np.ones(cutoff)))))
 
 else:
     print('select a valid device')
